@@ -1,0 +1,14 @@
+{
+  "name": "acidsec",
+  "version": "1.0.0",
+  "description": "bot for itsnuub the coolist haxor around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shprqness",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

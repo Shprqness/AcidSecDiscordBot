@@ -1,0 +1,1 @@
+if you want to use bot you need to add your own token + import discordjs library.
